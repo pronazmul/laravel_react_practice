@@ -1,4 +1,4 @@
-<h1 align="center">Laravel & React Pracitce Project</h1>
+<h1 align="center">React install in Laravel 8 Basic Setup Project</h1>
 
 > Step 1 Installation Commands
 
@@ -65,6 +65,4 @@ $ npm run dev
 $ php artisan serve
 
 ```
-
-> # Compare React Folder Structure in Laravel
 
