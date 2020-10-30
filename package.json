@@ -17,6 +17,7 @@
         "resolve-url-loader": "^3.1.0"
     },
     "dependencies": {
-        "react": "^17.0.1"
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1"
     }
 }
