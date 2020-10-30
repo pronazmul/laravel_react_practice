@@ -4,7 +4,7 @@ import ReactDom from 'react-dom'
 ReactDom.render(
     <React.StrictMode>
             <h1>Hello World I am from React World</h1>
-    </React.StrictMode>
+    </React.StrictMode>,
+document.getElementById('root')
 )
 
-document.getElementById('root')
