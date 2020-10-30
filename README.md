@@ -28,7 +28,7 @@ $ npm install react-dom
     </body>
 </html
 ```
-- Setup resource>js>app.js
+- Setup resource>js>app.js {React.StrctMode}
 ```sh
 import React from 'react'
 import ReactDom from 'react-dom'
@@ -39,6 +39,16 @@ ReactDom.render(
     </React.StrictMode>,
 document.getElementById('root')
 )
+```
+- Setup resource>js>app.js {Functional Component}
+```sh
+    import React from 'react'
+    import ReactDom from 'react-dom'
+    function Practice(){
+        return <h1>Hello World I am from React Functional Component</h1>
+    }
+    export default Practice
+    ReactDom.render(<Practice/>,document.getElementById('root'))
 ```
 - set webpack.mix.js
 
