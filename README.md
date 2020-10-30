@@ -64,5 +64,5 @@ mix.react('resources/js/app.js', 'public/js')
 $ npm run dev
 $ php artisan serve
 
-```
+``` 
 
