@@ -65,3 +65,6 @@ $ npm run dev
 $ php artisan serve
 
 ```
+
+> # Compare React Folder Structure in Laravel
+
