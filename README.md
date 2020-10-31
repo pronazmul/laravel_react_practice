@@ -65,4 +65,16 @@ $ npm run dev
 $ php artisan serve
 
 ``` 
+> Laravel React Folder Structure Overview
 
+| Fild Name | Laravel | React|
+| ------ | ------ | ------ |
+| node_modules Dir | Yes |  Yes |
+| Public Dir | Yes | Yes |
+| Src Dir | Resources>JS | Src |
+| .gitignore File | Yes | Yes |
+| .packege.json file | Yes | Yes |
+| .package-lock.json File | Yes | Yes |
+| readme.md File | Yes | Yes |
+
+- *NOTE:*  App.js | App.test.js | index.js | serviceWorker.js | setupTests.js (Must Be Setup In Lravel-> Resource -> Js)
