@@ -26,7 +26,7 @@ $ npm install react-dom
         <div id='root'></div>
         <script src="{{asset('js/app.js')}}"></script>
     </body>
-</html
+</html>
 ```
 - Setup resource>js>app.js {React.StrctMode}
 ```sh
