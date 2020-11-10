@@ -8,12 +8,12 @@ $ composer create-project --prefer-dist laravel/laravel laravel_react_practice
 $ npm install
 $ npm install react
 $ npm install react-dom
-
+ 
 ```
 
 > Step 2 Route Setup, index.blade.php Setup, App.js Setup & Compile.
 
-- Create a index.blade.php file in view & Set as exact route to it
+- Create a index.blade.php file in view & Set a cs exact route to it
 - Setup index.blade.php
 ```sh 
 
