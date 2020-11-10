@@ -15,7 +15,8 @@ $ npm install react-dom
 
 - Create a index.blade.php file in view & Set as exact route to it
 - Setup index.blade.php
-```sh
+```sh 
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -70,7 +71,7 @@ $ php artisan serve
 | Fild Name | Laravel | React|
 | ------ | ------ | ------ |
 | node_modules Dir | Yes |  Yes |
-| Public Dir | Yes | Yes |
+| Public Dir | Yes | Yes | 
 | Src Dir | Resources>JS | Src |
 | .gitignore File | Yes | Yes |
 | .packege.json file | Yes | Yes |
