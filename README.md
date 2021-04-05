@@ -54,10 +54,11 @@ document.getElementById('root')
 - set webpack.mix.js
 
 ```sh 
-mix.react('resources/js/app.js', 'public/js')
-    .postCss('resources/css/app.css', 'public/css', [
+mix.js("resources/js/app.js", "public/js")
+    .react()
+    .postCss("resources/css/app.css", "public/css", [
         //
-    ])
+    ]);
 ```
 > Step 3 Compiling Assets & Laravel Server Start Command
 
